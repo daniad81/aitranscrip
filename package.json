@@ -1,0 +1,10 @@
+{
+  "name": "audio-transcriptor-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "openai": "^4.0.0"
+  }
+}
